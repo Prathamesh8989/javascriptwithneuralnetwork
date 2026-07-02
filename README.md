@@ -1,6 +1,6 @@
 # Demo
 
-![Self Driving Car Demo](demo.gif)
+![Self Driving Car Demo](demo.mov)
 
 
 ![Simulation Screenshot](project.png)
