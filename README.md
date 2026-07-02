@@ -1,14 +1,9 @@
 # Demo
 
-```md
 ![Self Driving Car Demo](demo.gif)
-```
 
-or
 
-```md
 ![Simulation Screenshot](project.png)
-```
 
 ---
 
