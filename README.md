@@ -1,7 +1,5 @@
 # Demo
 
-Add a screenshot or GIF here.
-
 ```md
 ![Self Driving Car Demo](demo.gif)
 ```
